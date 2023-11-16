@@ -16,6 +16,8 @@
 		5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */; };
 		5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */; };
 		5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */; };
+		69588B912B0680CB0040E946 /* Chapter3page1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69588B902B0680CB0040E946 /* Chapter3page1.swift */; };
+		69588B932B0680D60040E946 /* CH3P2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69588B922B0680D60040E946 /* CH3P2.swift */; };
 		E64B78F32B067BAE00A0453A /* Pg2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E64B78F22B067BAE00A0453A /* Pg2.swift */; };
 		E6FA1FDF2B065D1F007CC31E /* Pg1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FA1FDE2B065D1F007CC31E /* Pg1.swift */; };
 /* End PBXBuildFile section */
@@ -31,6 +33,8 @@
 		5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter3View.swift; sourceTree = "<group>"; };
 		5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter4View.swift; sourceTree = "<group>"; };
 		5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter5View.swift; sourceTree = "<group>"; };
+		69588B902B0680CB0040E946 /* Chapter3page1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Chapter3page1.swift; sourceTree = "<group>"; };
+		69588B922B0680D60040E946 /* CH3P2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CH3P2.swift; sourceTree = "<group>"; };
 		E64B78F22B067BAE00A0453A /* Pg2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pg2.swift; sourceTree = "<group>"; };
 		E6FA1FDE2B065D1F007CC31E /* Pg1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pg1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -108,6 +112,8 @@
 			children = (
 				5DE6F67D2AFAE3DF004ABB4F /* Chapter1View.swift */,
 				5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */,
+				69588B902B0680CB0040E946 /* Chapter3page1.swift */,
+				69588B922B0680D60040E946 /* CH3P2.swift */,
 			);
 			path = Chapter3;
 			sourceTree = "<group>";
@@ -202,8 +208,10 @@
 				5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */,
 				5DE6F6722AFADF05004ABB4F /* ContentView.swift in Sources */,
 				E64B78F32B067BAE00A0453A /* Pg2.swift in Sources */,
+				69588B932B0680D60040E946 /* CH3P2.swift in Sources */,
 				5DE6F6802AFAE3E6004ABB4F /* Chapter2View.swift in Sources */,
 				E6FA1FDF2B065D1F007CC31E /* Pg1.swift in Sources */,
+				69588B912B0680CB0040E946 /* Chapter3page1.swift in Sources */,
 				5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */,
 				5DE6F67E2AFAE3DF004ABB4F /* Chapter1View.swift in Sources */,
 				5DE6F6702AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift in Sources */,
