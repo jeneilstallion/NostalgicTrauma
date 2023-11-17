@@ -16,8 +16,6 @@
 		5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */; };
 		5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */; };
 		5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */; };
-		E64B78F32B067BAE00A0453A /* Pg2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E64B78F22B067BAE00A0453A /* Pg2.swift */; };
-		E6FA1FDF2B065D1F007CC31E /* Pg1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6FA1FDE2B065D1F007CC31E /* Pg1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,8 +29,6 @@
 		5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter3View.swift; sourceTree = "<group>"; };
 		5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter4View.swift; sourceTree = "<group>"; };
 		5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter5View.swift; sourceTree = "<group>"; };
-		E64B78F22B067BAE00A0453A /* Pg2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pg2.swift; sourceTree = "<group>"; };
-		E6FA1FDE2B065D1F007CC31E /* Pg1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pg1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +85,7 @@
 		5DE6F6872AFAE47A004ABB4F /* Chapter1 */ = {
 			isa = PBXGroup;
 			children = (
+				5DE6F67D2AFAE3DF004ABB4F /* Chapter1View.swift */,
 			);
 			path = Chapter1;
 			sourceTree = "<group>";
@@ -97,8 +94,6 @@
 			isa = PBXGroup;
 			children = (
 				5DE6F67F2AFAE3E6004ABB4F /* Chapter2View.swift */,
-				E6FA1FDE2B065D1F007CC31E /* Pg1.swift */,
-				E64B78F22B067BAE00A0453A /* Pg2.swift */,
 			);
 			name = Chapter2;
 			sourceTree = "<group>";
@@ -106,7 +101,6 @@
 		5DE6F6892AFAE48E004ABB4F /* Chapter3 */ = {
 			isa = PBXGroup;
 			children = (
-				5DE6F67D2AFAE3DF004ABB4F /* Chapter1View.swift */,
 				5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */,
 			);
 			path = Chapter3;
@@ -201,9 +195,7 @@
 				5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */,
 				5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */,
 				5DE6F6722AFADF05004ABB4F /* ContentView.swift in Sources */,
-				E64B78F32B067BAE00A0453A /* Pg2.swift in Sources */,
 				5DE6F6802AFAE3E6004ABB4F /* Chapter2View.swift in Sources */,
-				E6FA1FDF2B065D1F007CC31E /* Pg1.swift in Sources */,
 				5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */,
 				5DE6F67E2AFAE3DF004ABB4F /* Chapter1View.swift in Sources */,
 				5DE6F6702AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift in Sources */,
