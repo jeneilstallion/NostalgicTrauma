@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "import SwiftUI struct Chapter4View View { var body some View { ZStack{ Image(CIVcover) ScrollView{ VStack{  Image(bookcover) .resizable()  .scaledToFill()  .edgesIgnoringSafeArea(.all) } Text(Chap.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
