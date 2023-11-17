@@ -51,7 +51,7 @@ struct MainStoryView: View {
         ZStack {
             ScrollView {
                 VStack{
-                    Image("C422")
+                    Image("CH4W")
                         .resizable()
                         .scaledToFit()
                         .frame(width: 250)
@@ -81,7 +81,7 @@ struct ThankYouView: View {
     var body: some View {
         Text("Thank you for reading Nostalgic Trauma")
             .font(.title)
-            .foregroundColor(.black)
+            .foregroundColor(.white)
     }
 }
 
